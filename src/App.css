@@ -28,18 +28,30 @@
   font-size: 24px;
   color: white;
   margin-bottom: 0px;
+  font-family: "Figtree", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 800px;
+  font-style: normal;
 }
 
 .card__ubication {
   font-size: 14px;
   color: #c4f82a;
   margin: 0px;
+  font-family: "Figtree", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
 }
 
 .card__description {
   font-size: 14px;
   color: white;
   margin: 24px;
+  font-family: "Figtree", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
 }
 
 .card__button {
@@ -51,4 +63,8 @@
   border-radius: 8px;
   border: none;
   margin-bottom: 16px;
+  font-family: "Figtree", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 800px;
+  font-style: normal;
 }
