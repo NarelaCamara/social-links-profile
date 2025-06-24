@@ -1,0 +1,54 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.container__card {
+  background-color: #1f1f1f;
+  padding: 40px;
+  border-radius: 20px;
+  min-width: 300px;
+  max-width: 300px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.card__avatar {
+  width: 88px;
+  height: 88px;
+  border-radius: 50%;
+  margin-right: 8px;
+  object-fit: cover;
+}
+
+.card__name {
+  font-size: 24px;
+  color: white;
+  margin-bottom: 0px;
+}
+
+.card__ubication {
+  font-size: 14px;
+  color: #c4f82a;
+  margin: 0px;
+}
+
+.card__description {
+  font-size: 14px;
+  color: white;
+  margin: 24px;
+}
+
+.card__button {
+  font-size: 14px;
+  color: white;
+  background: #333333;
+  padding: 12px;
+  width: 100%;
+  border-radius: 8px;
+  border: none;
+  margin-bottom: 16px;
+}
